@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋 I'm Enrico Joe
 
-<!--
-**enricojoe/enricojoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate with a passion for backend development, seeking opportunities to contribute to innovative projects and grow as a developer. 
 
-Here are some ideas to get you started:
+## 🎓 Education
+- Bachelor's Degree in Informatics Engineering from Sumatra Institute of Technology, graduated in 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages:** JavaScript, TypeScript, PHP, Python
+- **Frameworks/Libraries:** Express.js, CodeIgniter, Django
+- **Databases:** MongoDB, MySQL, Postgres, SQLite
+- **Tools:** Git, Docker, etc.
+
+## 🌱 Currently Learning
+- Mobile Development
+- Amazon Web Services (AWS)
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/enjoe/
+- Email: enrico.joe06@gmail.com
+
+## 🔗 Check out my projects below!
