@@ -6,14 +6,10 @@ I'm a recent graduate with a passion for backend development, seeking opportunit
 - Bachelor's Degree in Informatics Engineering from Sumatra Institute of Technology, graduated in 2024.
 
 ## 🚀 Skills
-- **Languages:** JavaScript, TypeScript, PHP, Python
-- **Frameworks/Libraries:** Express.js, CodeIgniter, Django
-- **Databases:** MongoDB, MySQL, Postgres, SQLite
-- **Tools:** Git, Docker, etc.
-
-## 🌱 Currently Learning
-- Mobile Development
-- Amazon Web Services (AWS)
+- **Languages:** JavaScript, TypeScript, PHP, Python, C#
+- **Frameworks/Libraries:** Express.js, CodeIgniter, Django, Asp.Net
+- **Databases:** MongoDB, MySQL, Postgres, SQLite, SQLServer
+- **Tools:** Git, Docker, OpenSearch, etc.
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/enjoe/
